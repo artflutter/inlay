@@ -1,3 +1,7 @@
+# 0.2.2
+
+- iOS: `InlayFlutterView` now returns a typed result through `onResult`.
+
 # 0.2.1
 
 - iOS: fixed a crash when a screen or dialog with a typed result closes without a value.
